@@ -1,0 +1,63 @@
+    body {
+        background-color: #E1D9D1;
+    }
+
+    .using-flex {
+        display: flex;
+        border-style: ridge;
+        background-color:  #1aebb6;
+         /* background-color: springgreen; */
+        border-color: #e8e8e8;
+    }
+
+    img {
+        padding: 5px;
+    }
+
+    #Content-about {
+        padding: 0px 100px 0px 170px;
+    }
+
+    h1 {
+        /* background-color: #ff4a4a; */
+        background-color: #e61c51;
+        border-color: black;
+        border-style: ridge;
+        padding: 0px 0px 0px 550px;
+    }
+
+    .categoryclass a{
+        color: purple;
+        text-decoration: none;
+        border: yellowgreen;
+        border-style:solid;
+        padding: 30px 70px 30px 70px;
+        background-color: wheat;
+        border-radius: 10px;
+        font-size: 25px;
+        /* margin: 60px 10px 60px 10px; */
+    }
+
+    .categoryclass p{
+        margin: 90px 10px 90px 430px;
+    }
+
+    #homebar{
+        margin: 0px 0px 0px 1000px;
+    }
+
+    #titlebar h3{
+        background-color: #ff4a4a;
+        border-color: black;
+        border-style: ridge;
+        padding: 0px 0px 0px 550px;
+    }
+    /* #categoryfirst a{
+        border: yellowgreen;
+        border-style:solid;
+    } */
+
+    #telusko-about{
+            margin: 18px 0px 0px 30px;
+        }
+
